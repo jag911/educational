@@ -1,2 +1,2 @@
 # educational
-Place for practicing coding
+Place for practicing use of GitHub
